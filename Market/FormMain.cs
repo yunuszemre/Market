@@ -37,7 +37,6 @@ namespace Market
             addScreen.MdiParent = this;
             addScreen.Show();
             this.VerticalScroll.Enabled = false;
-            this.HorizontalScroll.Enabled = false;
         }
         
     }
